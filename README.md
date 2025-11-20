@@ -28,3 +28,7 @@ src/
 
 README.md
 requirements.txt
+
+## Screenshot
+
+![Monroe Ice Cream Parlor App](screenshots/mip-app-screenshot.png)
