@@ -16,7 +16,7 @@ It calculates item totals, applies multiple discounts, and shows a receipt-style
 - Dataclasses for the pricing model
 
 ## Project Structure
-
+```text
 src/
   logic.py    # pricing + discount rules (business logic)
   app.py      # Tkinter user interface
@@ -26,3 +26,8 @@ screenshots/
 
 README.md
 requirements.txt
+```
+
+## Screenshot
+
+![Monroe Ice Cream Parlor App](screenshots/mip-app-screenshot.png)
